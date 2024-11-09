@@ -5,10 +5,10 @@
 - 🔭 I’m currently working on Medical imaging processing research
 - 📫 How to reach me: acsenrafilho@gmail.com
 
-[![Linkedin: Antonio](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/acsenrafilho/)](https://www.linkedin.com/in/acsenrafilho/)
-![Static Badge](https://img.shields.io/badge/Research_Gate-light_green?style=flat&link=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FAntonio-Carlos-Senra-Filho)
-![Static Badge](https://img.shields.io/badge/ORCiD-profile-dark_green?style=flat&link=https%3A%2F%2Forcid.org%2F0000-0002-9689-6053)
-![Static Badge](https://img.shields.io/badge/Linktr.ee-profile-dark_green?style=flat&link=https%3A%2F%2Flinktr.ee%2Facsenrafilho)
+[![Linkedin: Antonio](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/acsenrafilho/)](https://www.linkedin.com/in/acsenrafilho/)
+![Static Badge](https://img.shields.io/badge/Research_Gate-light_green?style=flat&link=https://www.researchgate.net/profile/Antonio-Carlos-Senra-Filho)
+![Static Badge](https://img.shields.io/badge/ORCiD-profile-dark_green?style=flat&link=https://Forcid.org/0000-0002-9689-6053)
+![Static Badge](https://img.shields.io/badge/Linktr.ee-profile-dark_green?style=flat&link=https://linktr.ee/acsenrafilho)
 
 
 ## Projects Quick View 
