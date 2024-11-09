@@ -15,7 +15,7 @@
 
 ### Arterial Spin Labeling toolkit (`asltk`)
 
-1. [asltk](https://pypi.org/project/asltk/)  [![PyPI version](https://badge.fury.io/py/asltk.svg)](https://badge.fury.io/py/asltk)
+1. [asltk](https://asltk.readthedocs.io/en/main/)  [![PyPI version](https://badge.fury.io/py/asltk.svg)](https://badge.fury.io/py/asltk)
 
 ### General Medical Imaging Plug-Ins (3D Slicer Extensions)
 
