@@ -24,9 +24,9 @@
 1. [Anomalous Diffusion Filters](https://www.slicer.org/wiki/Documentation/Nightly/Extensions/AnomalousFilters)
 2. [Lesion Spotlight](https://www.slicer.org/wiki/Documentation/Nightly/Extensions/LesionSpotlight)
 3. [Brain Lesion Simulator](https://www.slicer.org/wiki/Documentation/Nightly/Extensions/LesionSimulator)
-4. [Brain Lesion Simulator](https://www.slicer.org/wiki/Documentation/Nightly/Extensions/LesionSimulator)
 5. [Diffusion Complexity Mapping](https://slicerdiffusioncomplexitymap.readthedocs.io/en/latest/)
-6. [Brain Volume Refinement](https://www.slicer.org/wiki/Documentation/Nightly/Extensions/BrainVolumeRefinement)
+6. [DTI-ALPS Index Calculator](https://slicer-dti-alps.readthedocs.io/en/latest/)
+7. [Brain Volume Refinement](https://www.slicer.org/wiki/Documentation/Nightly/Extensions/BrainVolumeRefinement)
 
 ### Digital Document Processing and Analysis
 
