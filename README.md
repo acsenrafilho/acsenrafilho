@@ -19,6 +19,8 @@
 
 ### General Medical Imaging Plug-Ins (3D Slicer Extensions)
 
+> **_Tip_**: _Install the following 3D Slicer Extensions using the official [Slicer Extension Manager](https://extensions.slicer.org/) tool_
+
 1. [Anomalous Diffusion Filters](https://www.slicer.org/wiki/Documentation/Nightly/Extensions/AnomalousFilters)
 2. [Lesion Spotlight](https://www.slicer.org/wiki/Documentation/Nightly/Extensions/LesionSpotlight)
 3. [Brain Lesion Simulator](https://www.slicer.org/wiki/Documentation/Nightly/Extensions/LesionSimulator)
