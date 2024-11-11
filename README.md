@@ -13,11 +13,12 @@
 
 ## Projects Quick View 
 
-### Arterial Spin Labeling toolkit (`asltk`)
+### Python Tools 
 
-1. [asltk](https://asltk.readthedocs.io/en/main/)  [![PyPI version](https://badge.fury.io/py/asltk.svg)](https://badge.fury.io/py/asltk)
+1. Arterial Spin Labeling toolkit (`asltk`): [asltk](https://asltk.readthedocs.io/en/main/)  [![PyPI version](https://badge.fury.io/py/asltk.svg)](https://badge.fury.io/py/asltk)
+2. Digital Document Processing and Analysis: [cucaracha](https://cucaracha.readthedocs.io/en/latest/) [![PyPI version](https://badge.fury.io/py/cucaracha.svg)](https://badge.fury.io/py/cucaracha)
 
-### General Medical Imaging Plug-Ins (3D Slicer Extensions)
+### Medical Imaging Tools (3D Slicer Extensions)
 
 > **_Tip_**: _Install the following 3D Slicer Extensions using the official [Slicer Extension Manager](https://extensions.slicer.org/) tool_
 
@@ -28,7 +29,5 @@
 6. [DTI-ALPS Index Calculator](https://slicer-dti-alps.readthedocs.io/en/latest/)
 7. [Brain Volume Refinement](https://www.slicer.org/wiki/Documentation/Nightly/Extensions/BrainVolumeRefinement)
 
-### Digital Document Processing and Analysis
 
-1. [cucaracha](https://cucaracha.readthedocs.io/en/latest/) [![PyPI version](https://badge.fury.io/py/cucaracha.svg)](https://badge.fury.io/py/cucaracha)
 
