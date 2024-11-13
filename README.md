@@ -16,7 +16,7 @@
 ### Python Tools 
 
 1. Arterial Spin Labeling toolkit (`asltk`): [asltk](https://asltk.readthedocs.io/en/main/)  [![PyPI version](https://badge.fury.io/py/asltk.svg)](https://badge.fury.io/py/asltk)
-2. Digital Document Processing and Analysis: [cucaracha](https://cucaracha.readthedocs.io/en/latest/) [![PyPI version](https://badge.fury.io/py/cucaracha.svg)](https://badge.fury.io/py/cucaracha)
+2. Digital Document Processing and Analysis: [cucaracha](https://cucaracha.readthedocs.io/en/main/) [![PyPI version](https://badge.fury.io/py/cucaracha.svg)](https://badge.fury.io/py/cucaracha)
 
 ### Medical Imaging Tools (3D Slicer Extensions)
 
