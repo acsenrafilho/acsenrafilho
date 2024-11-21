@@ -22,9 +22,10 @@
 
 > **_Tip_**: _Install the following 3D Slicer Extensions using the official [Slicer Extension Manager](https://extensions.slicer.org/) tool_
 
-1. [Anomalous Diffusion Filters](https://github.com/CSIM-Toolkits/AnomalousFiltersExtension/)
-2. [Lesion Spotlight](https://github.com/CSIM-Toolkits/Slicer-LesionSpotlightExtension)
-3. [Brain Lesion Simulator](https://github.com/CSIM-Toolkits/Slicer-LesionSimulatorExtension)
+1. [ASL Toolkit](https://github.com/LOAMRI/Slicer-ASLtoolkit)
+2. [Anomalous Diffusion Filters](https://github.com/CSIM-Toolkits/AnomalousFiltersExtension/)
+3. [Lesion Spotlight](https://github.com/CSIM-Toolkits/Slicer-LesionSpotlightExtension)
+4. [Brain Lesion Simulator](https://github.com/CSIM-Toolkits/Slicer-LesionSimulatorExtension)
 5. [Diffusion Complexity Mapping](https://github.com/CSIM-Toolkits/SlicerDiffusionComplexityMap)
 6. [DTI-ALPS Index Calculator](https://github.com/LOAMRI/Slicer-DTI-ALPS)
 7. [Brain Volume Refinement](https://github.com/CSIM-Toolkits/SlicerBrainVolumeRefinement)
