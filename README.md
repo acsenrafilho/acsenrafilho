@@ -96,4 +96,6 @@
 
 1. [relaxophantom](https://github.com/acsenrafilho/relaxophantom)
    * **Paper**: Senra Filho, A. C. da S. (2016). Volumetric T1 and T2 magnetic resonance brain toolkit for relaxometry mapping simulation. Research on Biomedical Engineering, 32(3), 301–305. [http://doi.org/10.1590/2446-4740.00916](http://doi.org/10.1590/2446-4740.00916)
+2. [templateCreator](https://github.com/acsenrafilho/templateCreator/tree/master)
+   * **Description**:  `templateCreator` is a set of shell scripts pipelines designed to create DTI (Diffusion Tensor Imaging) templates. This repository contains all the necessary scripts and instructions to generate high-quality DTI templates.
 
