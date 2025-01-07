@@ -68,7 +68,7 @@
                 <td><p align="center"><img src="https://raw.githubusercontent.com/CSIM-Toolkits/Slicer-LesionSimulatorExtension/refs/heads/main/docs/assets/LesionSimulator.png" width="100"></p></td>
                 <td>Brain Lesion Simulator</td>
                 <td>3D Slicer extension to offer a set of tools for brain lesion simulation, based on MRI images</td>
-                <td><a target="_blank" rel="noopener noreferrer" href="https://lesionspotlightextension.readthedocs.io/en/latest/">documentation</a></td>
+                <td><a target="_blank" rel="noopener noreferrer" href="https://slicer-lesionsimulatorextension.readthedocs.io/en/latest/">documentation</a></td>
             </tr>
             <tr>
                 <td><p align="center"><img src="https://raw.githubusercontent.com/CSIM-Toolkits/SlicerDiffusionComplexityMap/refs/heads/main/docs/assets/DiffusionComplexityMap.png" width="100"></p></td>
