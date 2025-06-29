@@ -88,6 +88,12 @@
                 <td>3D Slicer extension for controlling the manual interference in the brain volume refinement after an automatic skull stripping</td>
                 <td><a target="_blank" rel="noopener noreferrer" href="https://slicerbrainvolumerefinement.readthedocs.io/en/latest/">documentation</a></td>
             </tr>
+            <tr>
+                <td><p align="center"><img src="https://raw.githubusercontent.com/acsenrafilho/dti-template-creator/refs/heads/master/docs/assets/dti-template-logo.png" width="100"></p></td>
+                <td>DTI Template Creator</td>
+                <td>A shell script pipeline to able the DTI image template creation</td>
+                <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/acsenrafilho/dti-template-creator/tree/master">documentation</a></td>
+            </tr>
         </tbody>
     </table>
 </figure>
@@ -96,6 +102,4 @@
 
 1. [relaxophantom](https://github.com/acsenrafilho/relaxophantom)
    * **Paper**: Senra Filho, A. C. da S. (2016). Volumetric T1 and T2 magnetic resonance brain toolkit for relaxometry mapping simulation. Research on Biomedical Engineering, 32(3), 301–305. [http://doi.org/10.1590/2446-4740.00916](http://doi.org/10.1590/2446-4740.00916)
-2. [templateCreator](https://github.com/acsenrafilho/templateCreator)
-   * **Description**:  `templateCreator` is a set of shell scripts pipelines designed to create DTI (Diffusion Tensor Imaging) templates. This repository contains all the necessary scripts and instructions to generate high-quality DTI templates.
 
