@@ -19,6 +19,12 @@
     <table>
         <tbody>
             <tr>
+                <td><p align="center"><img src="https://raw.githubusercontent.com/acsenrafilho/neuroflow/refs/heads/main/assets/images/neuroflow_icon.png" width="100"></p></td>
+                <td>neuroflow</td>
+                <td>NeuroFlow is a facilitation portal for neuroscience medical image processing: one web page per CLI tool</td>
+                <td><a target="_blank" rel="noopener noreferrer" href="https://neuroflowpipelines.readthedocs.io/en/latest/">documentation</a></td>
+            </tr>
+            <tr>
                 <td><p align="center"><img src="https://raw.githubusercontent.com/LOAMRI/asltk/refs/heads/main/docs/assets/asltk-logo-150px.png" width="100"></p></td>
                 <td>asltk</td>
                 <td>library was designed to assist users in processing Arterial Spin Labeling (ASL) MRI images, from basic imaging protocols to the state-of-the-art models provided in the scientific literature</td>
@@ -46,6 +52,12 @@
             <col style="width:27.41%;">
         </colgroup>
         <tbody>
+            <tr>
+                <td><p align="center"><img src="https://raw.githubusercontent.com/acsenrafilho/neuroflow/refs/heads/main/assets/images/neuroflow_icon.png" width="100"></p></td>
+                <td>NeuroFlow</td>
+                <td>NeuroFlow is a facilitation portal for neuroscience medical image processing: one web page per CLI tool</td>
+                <td><a target="_blank" rel="noopener noreferrer" href="https://neuroflowpipelines.readthedocs.io/en/latest/">documentation</a></td>
+            </tr>
             <tr>
                 <td><p align="center"><img src="https://raw.githubusercontent.com/LOAMRI/asltk/refs/heads/main/docs/assets/asltk-logo-150px.png" width="100"></p></td>
                 <td>ASL Toolkit</td>
